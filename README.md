@@ -26,6 +26,6 @@ Custom Components were not structured to share state data, so there was no way t
 This can be solved by implementing a global state management system like Redux
 
 ## Install
-npm install
+Unpack and open terminal to project directory
 
-npx react-native run-android
+run command: npx react-native run-android
